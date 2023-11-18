@@ -8,12 +8,17 @@ AskGpt is a simple application that allows users to interact with the OpenAI GPT
 
 ## Table of Contents
 
+- [Screen Recording](#screen-recording)
 - [Setup](#setup)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
 - [Obtaining OpenAI API Key](#obtaining-openai-api-key)
 - [Adding OpenAI API Key](#adding-openai-api-key)
 - [Running the Project](#running-the-project)
+
+## Screen Recording
+
+![AskGpt Screen Recording](AskGpt.gif)
 
 ## Setup
 
