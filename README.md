@@ -86,7 +86,7 @@ AskGpt is a simple application that allows users to interact with the OpenAI GPT
 
 To use the OpenAI API, you need to obtain an API key. Follow these steps:
 
-1. Visit [OpenAI](https://beta.openai.com/signup/) to sign up for an account.
+1. Visit [OpenAI](https://platform.openai.com/api-keys) to sign up for an account.
 
 2. Once you have an account, access the API section to generate your API key.
 
