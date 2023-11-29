@@ -27,7 +27,7 @@ AskGpt is a simple application that allows users to interact with the OpenAI GPT
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TheAdmi/AskGpt.git
+   git clone https://github.com/abdellah-agrm/AskGpt.git
    ```
 
 2. Navigate to the backend folder:
